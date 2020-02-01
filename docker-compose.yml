@@ -6,7 +6,7 @@ services:
     volumes:
       - ./docker-volumes/db:/var/lib/mysql
     ports:
-      - 3306
+      - 3306:3306
     environment:
       MYSQL_ALLOW_EMPTY_PASSWORD: "no"
       MYSQL_ROOT_PASSWORD: "rootpwd"
@@ -23,8 +23,7 @@ services:
       - 8080:3000
     depends_on:
       - vv-db
-    volumes: 
-      - ./backend/:/usr/src/app
+
 
   vv-web:
     image: httpd
@@ -35,4 +34,4 @@ services:
     depends_on:
       - vv-api-backend
     volumes: 
-      - ./forntend:/usr/local/apache2/htdocs/
+      - ./frontend:/usr/local/apache2/htdocs/
