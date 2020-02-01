@@ -1,0 +1,28 @@
+#Country table
+
+CREATE TABLE virusvis.Country(
+	CountryID int NOT NULL AUTO_INCREMENT,
+    Name VARCHAR(50),
+    Affected TINYINT,
+    PRIMARY KEY(CountryID)
+);
+
+#Cases table
+
+CREATE TABLE virusvis.Cases(
+	CaseID int NOT NULL AUTO_INCREMENT,
+    Date VARCHAR(15),
+    Infected int,
+    Deaths int,
+    CountryID int,
+    PRIMARY KEY(CaseID),
+    FOREIGN KEY(CountryID) REFERENCES Country(CountryID)
+);
+
+
+#Selected CountryID vi name of temporary table and then inserted data via keeping foerign key integrity
+
+INSERT INTO virusvis.Cases
+    (CountryID, Infected, Deaths, Recovered, Date)
+SELECT Country.CountryID, TempTableX.Infected, TempTableX.Deaths, TempTableX.Recovered, TempTableX.Date
+    FROM virusvis.TempTableX, virusvis.Country Where Country.CName = TempTableX.Name; 
