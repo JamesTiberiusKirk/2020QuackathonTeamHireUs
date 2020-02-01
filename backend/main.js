@@ -4,7 +4,6 @@ const bodyParser = require('body-parser');
 const serverConf = require('./config/config').server;
 
 const app = express();
-console.log(serverConf)
 
 app.use(cors());
 app.use(bodyParser.json());
