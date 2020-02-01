@@ -1,6 +1,6 @@
 FROM node
 
-WORKDIR /usr/src/app
+WORKDIR /usr/src/app/backend
 
 RUN npm install
 
