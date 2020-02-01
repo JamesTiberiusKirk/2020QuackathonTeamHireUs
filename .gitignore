@@ -3,3 +3,5 @@ backend/config/db.secret.js
 
 docker-volumes/
 
+*.DS_Store
+
