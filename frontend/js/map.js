@@ -1,12 +1,29 @@
-var map_scene = scene_setup(75, window.innerWidth/window.innerHeight, 0.01, 1000);
-map_scene.renderer.setSize(window.innerWidth, window.innerHeight);
-document.body.appendChild(scene.renderer.domElement)
+var scene = new THREE.Scene();
+var camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.01, 1000);
+var renderer = new THREE.WebGLRenderer();
 
-var geometry = new THREE.SphereGeometry(5, 30, 30);
-var material = new THREE.MeshbasicMaterial({color: blue});
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement)
+
+const RADIUS = 5;
+const WIDTH_SEGMENTS = 20;
+const HEIGHT_SEGMENTS = 20;
+
+var texture = new THREE.TextureLoader().load('land_ocean_ice_cloud_2048.jpg');
+
+var geometry = new THREE.SphereGeometry(RADIUS, WIDTH_SEGMENTS, HEIGHT_SEGMENTS);
+var material = new THREE.MeshBasicMaterial({map: texture});
 var sphere = new THREE.Mesh(geometry, material);
-map_scene.scene.add(cube);
+scene.add(sphere);
 
-map_scene.camera.position.z = 5;
+camera.position.z = 10;
 
-render(map_scene);
+var animate = function() {
+    requestAnimationFrame(animate);
+    sphere.rotation.x += 0.01;
+    sphere.rotation.y += 0.01;
+    renderer.render(scene, camera);
+}
+
+animate();
+

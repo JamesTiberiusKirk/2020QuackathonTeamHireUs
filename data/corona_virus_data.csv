@@ -1,498 +1,498 @@
-,Sno,Country,Confirmed,Deaths,Recovered,Date
-0,1,China,1,0,0,1/22/2020
-1,2,China,14,0,0,1/22/2020
-2,3,China,6,0,0,1/22/2020
-3,4,China,1,0,0,1/22/2020
-4,5,China,0,0,0,1/22/2020
-5,6,China,26,0,0,1/22/2020
-6,7,China,2,0,0,1/22/2020
-7,8,China,1,0,0,1/22/2020
-8,9,China,4,0,0,1/22/2020
-9,10,China,1,0,0,1/22/2020
-10,11,China,0,0,0,1/22/2020
-11,12,China,5,0,0,1/22/2020
-12,13,China,0,0,0,1/22/2020
-13,14,China,444,0,0,1/22/2020
-14,15,China,4,0,0,1/22/2020
-15,16,China,0,0,0,1/22/2020
-16,17,China,1,0,0,1/22/2020
-17,18,China,2,0,0,1/22/2020
-18,19,China,0,0,0,1/22/2020
-19,20,China,2,0,0,1/22/2020
-20,21,China,1,0,0,1/22/2020
-21,22,China,1,0,0,1/22/2020
-22,23,China,0,0,0,1/22/2020
-23,24,China,0,0,0,1/22/2020
-24,25,China,2,0,0,1/22/2020
-25,26,China,9,0,0,1/22/2020
-26,27,China,1,0,0,1/22/2020
-27,28,China,5,0,0,1/22/2020
-28,29,China,1,0,0,1/22/2020
-29,30,China,4,0,0,1/22/2020
-30,31,China,0,0,0,1/22/2020
-31,32,US,1,0,0,1/22/2020
-32,33,China,0,0,0,1/22/2020
-33,34,China,1,0,0,1/22/2020
-34,35,China,10,0,0,1/22/2020
-35,36,Japan,2,0,0,1/22/2020
-36,37,Thailand,2,0,0,1/22/2020
-37,38,South Korea,1,0,0,1/22/2020
-38,39,Mainland China,9,0,0,1/23/2020
-39,40,Mainland China,22,0,0,1/23/2020
-40,41,Mainland China,9,0,0,1/23/2020
-41,42,Mainland China,5,0,0,1/23/2020
-42,43,Mainland China,2,0,0,1/23/2020
-43,44,Mainland China,32,0,2,1/23/2020
-44,45,Mainland China,5,0,0,1/23/2020
-45,46,Mainland China,3,0,0,1/23/2020
-46,47,Mainland China,5,0,0,1/23/2020
-47,48,Mainland China,1,1,0,1/23/2020
-48,49,Mainland China,2,0,0,1/23/2020
-49,50,Mainland China,5,0,0,1/23/2020
-50,51,Hong Kong,2,0,0,1/23/2020
-51,52,Mainland China,444,17,28,1/23/2020
-52,53,Mainland China,9,0,0,1/23/2020
-53,54,Mainland China,0,0,0,1/23/2020
-54,55,Mainland China,5,0,0,1/23/2020
-55,56,Mainland China,7,0,0,1/23/2020
-56,57,Mainland China,1,0,0,1/23/2020
-57,58,Mainland China,3,0,0,1/23/2020
-58,59,Macau,2,0,0,1/23/2020
-59,60,Mainland China,1,0,0,1/23/2020
-60,61,Mainland China,0,0,0,1/23/2020
-61,62,Mainland China,3,0,0,1/23/2020
-62,63,Mainland China,6,0,0,1/23/2020
-63,64,Mainland China,16,0,0,1/23/2020
-64,65,Mainland China,1,0,0,1/23/2020
-65,66,Mainland China,8,0,0,1/23/2020
-66,67,Taiwan,1,0,0,1/23/2020
-67,68,Mainland China,4,0,0,1/23/2020
-68,69,Mainland China,0,0,0,1/23/2020
-69,70,US,1,0,0,1/23/2020
-70,71,Mainland China,2,0,0,1/23/2020
-71,72,Mainland China,2,0,0,1/23/2020
-72,73,Mainland China,27,0,0,1/23/2020
-73,74,Japan,1,0,0,1/23/2020
-74,75,Thailand,3,0,0,1/23/2020
-75,76,South Korea,1,0,0,1/23/2020
-76,77,Singapore,1,0,0,1/23/2020
-77,78,Philippines,0,0,0,1/23/2020
-78,79,Malaysia,0,0,0,1/23/2020
-79,80,Vietnam,2,0,0,1/23/2020
-80,81,Australia,0,0,0,1/23/2020
-81,82,Mexico,0,0,0,1/23/2020
-82,83,Brazil,0,0,0,1/23/2020
-83,84,Mainland China,549,24,31,1/24/2020
-84,85,Mainland China,53,0,2,1/24/2020
-85,86,Mainland China,43,0,1,1/24/2020
-86,87,Mainland China,36,0,1,1/24/2020
-87,88,Mainland China,27,0,0,1/24/2020
-88,89,Mainland China,24,0,0,1/24/2020
-89,90,Mainland China,23,0,0,1/24/2020
-90,91,Mainland China,20,0,1,1/24/2020
-91,92,Mainland China,18,0,0,1/24/2020
-92,93,Mainland China,15,0,0,1/24/2020
-93,94,Mainland China,15,0,0,1/24/2020
-94,95,Mainland China,15,0,0,1/24/2020
-95,96,Mainland China,10,0,0,1/24/2020
-96,97,Mainland China,9,0,0,1/24/2020
-97,98,Mainland China,9,0,0,1/24/2020
-98,99,Mainland China,8,0,0,1/24/2020
-99,100,Mainland China,8,0,0,1/24/2020
-100,101,Mainland China,5,0,0,1/24/2020
-101,102,Mainland China,5,0,0,1/24/2020
-102,103,Mainland China,4,1,0,1/24/2020
-103,104,Mainland China,4,0,0,1/24/2020
-104,105,Mainland China,3,0,0,1/24/2020
-105,106,Mainland China,3,0,0,1/24/2020
-106,107,Taiwan,3,0,0,1/24/2020
-107,108,Mainland China,2,0,0,1/24/2020
-108,109,Hong Kong,2,0,0,1/24/2020
-109,110,Macau,2,0,0,1/24/2020
-110,111,Mainland China,2,1,0,1/24/2020
-111,112,Mainland China,2,0,0,1/24/2020
-112,113,Mainland China,2,0,0,1/24/2020
-113,114,Mainland China,1,0,0,1/24/2020
-114,115,Mainland China,1,0,0,1/24/2020
-115,116,Mainland China,0,0,0,1/24/2020
-116,117,US,1,0,0,1/24/2020
-117,118,US,1,0,0,1/24/2020
-118,119,Japan,2,0,0,1/24/2020
-119,120,Thailand,5,0,0,1/24/2020
-120,121,South Korea,2,0,0,1/24/2020
-121,122,Singapore,3,0,0,1/24/2020
-122,123,Vietnam,2,0,0,1/24/2020
-123,124,France,2,0,0,1/24/2020
-124,125,Mainland China,1052,52,42,1/25/2020
-125,126,Mainland China,104,0,1,1/25/2020
-126,127,Mainland China,98,0,2,1/25/2020
-127,128,Mainland China,83,1,0,1/25/2020
-128,129,Mainland China,75,0,0,1/25/2020
-129,130,Mainland China,69,0,0,1/25/2020
-130,131,Mainland China,60,0,0,1/25/2020
-131,132,Mainland China,51,0,2,1/25/2020
-132,133,Mainland China,44,0,0,1/25/2020
-133,134,Mainland China,40,1,1,1/25/2020
-134,135,Mainland China,39,0,0,1/25/2020
-135,136,Mainland China,36,0,0,1/25/2020
-136,137,Mainland China,33,0,0,1/25/2020
-137,138,Mainland China,31,0,1,1/25/2020
-138,139,Mainland China,19,0,0,1/25/2020
-139,140,Mainland China,19,0,0,1/25/2020
-140,141,Mainland China,18,1,0,1/25/2020
-141,142,Mainland China,15,0,0,1/25/2020
-142,143,Mainland China,15,0,0,1/25/2020
-143,144,Mainland China,13,0,0,1/25/2020
-144,145,Mainland China,13,1,0,1/25/2020
-145,146,Mainland China,11,0,0,1/25/2020
-146,147,Mainland China,,0,0,1/25/2020
-147,148,Mainland China,7,0,0,1/25/2020
-148,149,Mainland China,7,0,0,1/25/2020
-149,150,Mainland China,5,0,0,1/25/2020
-150,151,Hong Kong,5,0,0,1/25/2020
-151,152,Mainland China,4,0,0,1/25/2020
-152,153,Mainland China,4,0,0,1/25/2020
-153,154,Mainland China,4,0,0,1/25/2020
-154,155,Taiwan,3,0,0,1/25/2020
-155,156,Macau,2,0,0,1/25/2020
-156,157,Mainland China,1,0,0,1/25/2020
-157,158,US,1,0,0,1/25/2020
-158,159,US,1,0,0,1/25/2020
-159,160,Japan,2,0,0,1/25/2020
-160,161,Thailand,7,0,0,1/25/2020
-161,162,South Korea,3,0,0,1/25/2020
-162,163,Singapore,3,0,0,1/25/2020
-163,164,Vietnam,2,0,0,1/25/2020
-164,165,France,3,0,0,1/25/2020
-165,166,Australia,4,0,0,1/25/2020
-166,167,Nepal,1,0,0,1/25/2020
-167,168,Malaysia,3,0,0,1/25/2020
-168,169,Mainland China,1423,76,44,1/26/2020
-169,170,Mainland China,146,0,2,1/26/2020
-170,171,Mainland China,128,0,1,1/26/2020
-171,172,Mainland China,128,1,0,1/26/2020
-172,173,Mainland China,110,0,0,1/26/2020
-173,174,Mainland China,100,0,0,1/26/2020
-174,175,Mainland China,70,0,0,1/26/2020
-175,176,Mainland China,69,0,0,1/26/2020
-176,177,Mainland China,68,0,2,1/26/2020
-177,178,Mainland China,63,0,0,1/26/2020
-178,179,Mainland China,53,1,1,1/26/2020
-179,180,Mainland China,48,0,0,1/26/2020
-180,181,Mainland China,47,0,1,1/26/2020
-181,182,Mainland China,46,0,0,1/26/2020
-182,183,Mainland China,35,0,0,1/26/2020
-183,184,Mainland China,23,0,0,1/26/2020
-184,185,Mainland China,22,0,0,1/26/2020
-185,186,Mainland China,22,0,0,1/26/2020
-186,187,Mainland China,21,1,0,1/26/2020
-187,188,Mainland China,19,0,0,1/26/2020
-188,189,Mainland China,18,1,0,1/26/2020
-189,190,Mainland China,14,0,0,1/26/2020
-190,191,Mainland China,14,0,0,1/26/2020
-191,192,Mainland China,13,0,0,1/26/2020
-192,193,Mainland China,11,0,0,1/26/2020
-193,194,Hong Kong,8,0,0,1/26/2020
-194,195,Mainland China,7,0,0,1/26/2020
-195,196,Mainland China,6,0,0,1/26/2020
-196,197,Macau,6,0,0,1/26/2020
-197,198,Mainland China,5,0,0,1/26/2020
-198,199,Mainland China,4,0,0,1/26/2020
-199,200,Taiwan,4,0,0,1/26/2020
-200,201,Mainland China,4,0,0,1/26/2020
-201,202,US,1,0,0,1/26/2020
-202,203,US,1,0,0,1/26/2020
-203,204,US,2,0,0,1/26/2020
-204,205,US,1,0,0,1/26/2020
-205,206,Japan,4,0,1,1/26/2020
-206,207,Thailand,8,0,2,1/26/2020
-207,208,South Korea,3,0,0,1/26/2020
-208,209,Singapore,4,0,0,1/26/2020
-209,210,Vietnam,2,0,0,1/26/2020
-210,211,France,3,0,0,1/26/2020
-211,212,Australia,4,0,0,1/26/2020
-212,213,Nepal,1,0,0,1/26/2020
-213,214,Malaysia,4,0,0,1/26/2020
-214,215,Canada,1,0,0,1/26/2020
-215,216,Mainland China,2714,100,47,1/27/2020
-216,217,Mainland China,173,0,1,1/27/2020
-217,218,Mainland China,168,1,0,1/27/2020
-218,219,Mainland China,151,0,4,1/27/2020
-219,220,Mainland China,132,0,0,1/27/2020
-220,221,Mainland China,106,0,0,1/27/2020
-221,222,Mainland China,100,0,0,1/27/2020
-222,223,Mainland China,90,0,0,1/27/2020
-223,224,Mainland China,87,1,0,1/27/2020
-224,225,Mainland China,80,1,2,1/27/2020
-225,226,Mainland China,72,0,2,1/27/2020
-226,227,Mainland China,70,0,1,1/27/2020
-227,228,Mainland China,66,1,3,1/27/2020
-228,229,Mainland China,59,0,0,1/27/2020
-229,230,Mainland China,51,0,0,1/27/2020
-230,231,Mainland China,35,0,0,1/27/2020
-231,232,Mainland China,33,1,0,1/27/2020
-232,233,Mainland China,33,1,0,1/27/2020
-233,234,Mainland China,30,1,0,1/27/2020
-234,235,Mainland China,27,0,0,1/27/2020
-235,236,Mainland China,26,0,0,1/27/2020
-236,237,Mainland China,23,0,0,1/27/2020
-237,238,Mainland China,20,0,0,1/27/2020
-238,239,Mainland China,19,0,0,1/27/2020
-239,240,Mainland China,11,0,0,1/27/2020
-240,241,Mainland China,9,0,0,1/27/2020
-241,242,Hong Kong,8,0,0,1/27/2020
-242,243,Mainland China,7,0,0,1/27/2020
-243,244,Mainland China,6,0,0,1/27/2020
-244,245,Macau,6,0,0,1/27/2020
-245,246,Mainland China,6,0,0,1/27/2020
-246,247,Taiwan,5,0,0,1/27/2020
-247,248,Mainland China,5,0,0,1/27/2020
-248,249,US,1,0,0,1/27/2020
-249,250,US,1,0,0,1/27/2020
-250,251,US,2,0,0,1/27/2020
-251,252,US,1,0,0,1/27/2020
-252,253,Japan,4,0,1,1/27/2020
-253,254,Thailand,8,0,2,1/27/2020
-254,255,South Korea,4,0,0,1/27/2020
-255,256,Singapore,5,0,0,1/27/2020
-256,257,Vietnam,2,0,0,1/27/2020
-257,258,France,3,0,0,1/27/2020
-258,259,Nepal,1,0,0,1/27/2020
-259,260,Malaysia,4,0,0,1/27/2020
-260,261,Canada,1,0,0,1/27/2020
-261,262,Cambodia,1,0,0,1/27/2020
-262,263,Sri Lanka,1,0,0,1/27/2020
-263,264,Ivory Coast,0,0,0,1/27/2020
-264,265,Australia,4,0,0,1/27/2020
-265,266,Australia,1,0,0,1/27/2020
-266,267,Germany,1,0,0,1/27/2020
-267,268,Mainland China,3554,125,80,1/28/2020
-268,269,Mainland China,296,0,3,1/28/2020
-269,270,Mainland China,241,0,5,1/28/2020
-270,271,Mainland China,221,0,0,1/28/2020
-271,272,Mainland China,206,2,1,1/28/2020
-272,273,Mainland China,152,0,0,1/28/2020
-273,274,Mainland China,147,0,1,1/28/2020
-274,275,Mainland China,121,0,0,1/28/2020
-275,276,Mainland China,109,0,3,1/28/2020
-276,277,Mainland China,108,0,0,1/28/2020
-277,278,Mainland China,99,0,1,1/28/2020
-278,279,Mainland China,91,1,4,1/28/2020
-279,280,Mainland China,82,0,0,1/28/2020
-280,281,Mainland China,80,1,4,1/28/2020
-281,282,Mainland China,58,0,2,1/28/2020
-282,283,Mainland China,56,0,0,1/28/2020
-283,284,Mainland China,48,1,0,1/28/2020
-284,285,Mainland China,44,0,0,1/28/2020
-285,286,Mainland China,43,1,0,1/28/2020
-286,287,Mainland China,37,1,0,1/28/2020
-287,288,Mainland China,36,0,0,1/28/2020
-288,289,Mainland China,27,0,0,1/28/2020
-289,290,Mainland China,25,0,0,1/28/2020
-290,291,Mainland China,24,0,0,1/28/2020
-291,292,Mainland China,16,0,0,1/28/2020
-292,293,Mainland China,13,0,0,1/28/2020
-293,294,Mainland China,12,0,0,1/28/2020
-294,295,Mainland China,9,0,0,1/28/2020
-295,296,Mainland China,9,0,0,1/28/2020
-296,297,Hong Kong,8,0,0,1/28/2020
-297,298,Taiwan,8,0,0,1/28/2020
-298,299,Macau,7,0,0,1/28/2020
-299,300,Mainland China,6,0,0,1/28/2020
-300,301,US,1,0,0,1/28/2020
-301,302,US,1,0,0,1/28/2020
-302,303,US,2,0,0,1/28/2020
-303,304,US,1,0,0,1/28/2020
-304,305,Japan,7,0,1,1/28/2020
-305,306,Thailand,14,0,5,1/28/2020
-306,307,South Korea,4,0,0,1/28/2020
-307,308,Singapore,7,0,0,1/28/2020
-308,309,Vietnam,2,0,0,1/28/2020
-309,310,France,4,0,0,1/28/2020
-310,311,Nepal,1,0,0,1/28/2020
-311,312,Malaysia,7,0,0,1/28/2020
-312,313,Canada,1,0,0,1/28/2020
-313,314,Canada,1,0,0,1/28/2020
-314,315,Cambodia,1,0,0,1/28/2020
-315,316,Sri Lanka,1,0,0,1/28/2020
-316,317,Australia,4,0,0,1/28/2020
-317,318,Australia,1,0,0,1/28/2020
-318,319,Germany,4,0,0,1/28/2020
-319,320,Mainland China,4586,162,90,1/29/2020
-320,321,Mainland China,428,0,4,1/29/2020
-321,322,Mainland China,311,0,6,1/29/2020
-322,323,Mainland China,278,2,2,1/29/2020
-323,324,Mainland China,277,0,0,1/29/2020
-324,325,Mainland China,200,0,2,1/29/2020
-325,326,Mainland China,165,0,1,1/29/2020
-326,327,Mainland China,162,0,4,1/29/2020
-327,328,Mainland China,145,0,1,1/29/2020
-328,329,Mainland China,142,1,1,1/29/2020
-329,330,Mainland China,129,0,1,1/29/2020
-330,331,Mainland China,111,1,4,1/29/2020
-331,332,Mainland China,101,1,5,1/29/2020
-332,333,Mainland China,101,0,0,1/29/2020
-333,334,Mainland China,78,0,2,1/29/2020
-334,335,Mainland China,65,1,0,1/29/2020
-335,336,Mainland China,56,0,0,1/29/2020
-336,337,Mainland China,55,0,0,1/29/2020
-337,338,Mainland China,43,1,0,1/29/2020
-338,339,Mainland China,43,1,0,1/29/2020
-339,340,Mainland China,39,0,1,1/29/2020
-340,341,Mainland China,35,0,1,1/29/2020
-341,342,Mainland China,27,0,0,1/29/2020
-342,343,Mainland China,26,0,0,1/29/2020
-343,344,Mainland China,16,0,0,1/29/2020
-344,345,Mainland China,14,0,1,1/29/2020
-345,346,Mainland China,14,0,0,1/29/2020
-346,347,Mainland China,12,0,1,1/29/2020
-347,348,Mainland China,12,0,0,1/29/2020
-348,349,Hong Kong,10,0,0,1/29/2020
-349,350,Taiwan,8,0,0,1/29/2020
-350,351,Macau,7,0,0,1/29/2020
-351,352,Mainland China,6,0,0,1/29/2020
-352,353,Mainland China,1,0,0,1/29/2020
-353,354,US,1,0,0,1/29/2020
-354,355,US,1,0,0,1/29/2020
-355,356,US,2,0,0,1/29/2020
-356,357,US,1,0,0,1/29/2020
-357,358,Japan,11,0,1,1/29/2020
-358,359,Thailand,14,0,5,1/29/2020
-359,360,South Korea,4,0,0,1/29/2020
-360,361,Singapore,10,0,0,1/29/2020
-361,362,Vietnam,2,0,0,1/29/2020
-362,363,France,5,0,0,1/29/2020
-363,364,Nepal,1,0,0,1/29/2020
-364,365,Malaysia,7,0,0,1/29/2020
-365,366,Canada,2,0,0,1/29/2020
-366,367,Canada,1,0,0,1/29/2020
-367,368,Cambodia,1,0,0,1/29/2020
-368,369,Sri Lanka,1,0,0,1/29/2020
-369,370,Australia,4,0,0,1/29/2020
-370,371,Australia,2,0,0,1/29/2020
-371,372,Australia,1,0,0,1/29/2020
-372,373,Germany,4,0,0,1/29/2020
-373,374,Finland,1,0,0,1/29/2020
-374,375,United Arab Emirates,4,0,0,1/29/2020
-375,376,Mainland China,5806,204,116,1/30/2020
-376,377,Mainland China,537,0,9,1/30/2020
-377,378,Mainland China,393,0,11,1/30/2020
-378,379,Mainland China,352,2,3,1/30/2020
-379,380,Mainland China,332,0,2,1/30/2020
-380,381,Mainland China,240,0,7,1/30/2020
-381,382,Mainland China,237,0,3,1/30/2020
-382,383,Mainland China,206,0,1,1/30/2020
-383,384,Mainland China,178,0,2,1/30/2020
-384,385,Mainland China,177,1,1,1/30/2020
-385,386,Mainland China,168,0,2,1/30/2020
-386,387,Mainland China,128,1,9,1/30/2020
-387,388,Mainland China,121,1,5,1/30/2020
-388,389,Mainland China,101,0,0,1/30/2020
-389,390,Mainland China,87,0,2,1/30/2020
-390,391,Mainland China,82,1,0,1/30/2020
-391,392,Mainland China,76,0,0,1/30/2020
-392,393,Mainland China,87,0,0,1/30/2020
-393,394,Mainland China,59,2,0,1/30/2020
-394,395,Mainland China,50,1,1,1/30/2020
-395,396,Mainland China,45,0,1,1/30/2020
-396,397,Mainland China,39,0,1,1/30/2020
-397,398,Mainland China,32,0,0,1/30/2020
-398,399,Mainland China,29,0,0,1/30/2020
-399,400,Mainland China,21,0,1,1/30/2020
-400,401,Mainland China,20,0,0,1/30/2020
-401,402,Mainland China,17,0,0,1/30/2020
-402,403,Mainland China,15,0,1,1/30/2020
-403,404,Mainland China,14,0,1,1/30/2020
-404,405,Hong Kong,12,0,0,1/30/2020
-405,406,Taiwan,9,0,0,1/30/2020
-406,407,Mainland China,8,0,0,1/30/2020
-407,408,Macau,7,0,0,1/30/2020
-408,409,Mainland China,1,0,0,1/30/2020
-409,410,US,1,0,0,1/30/2020
-410,411,US,2,0,0,1/30/2020
-411,412,US,2,0,0,1/30/2020
-412,413,US,1,0,0,1/30/2020
-413,414,Japan,11,0,1,1/30/2020
-414,415,Thailand,14,0,5,1/30/2020
-415,416,South Korea,6,0,0,1/30/2020
-416,417,Singapore,10,0,0,1/30/2020
-417,418,Vietnam,2,0,0,1/30/2020
-418,419,France,5,0,0,1/30/2020
-419,420,Nepal,1,0,0,1/30/2020
-420,421,Malaysia,8,0,0,1/30/2020
-421,422,Canada,2,0,0,1/30/2020
-422,423,Canada,1,0,0,1/30/2020
-423,424,Cambodia,1,0,0,1/30/2020
-424,425,Sri Lanka,1,0,0,1/30/2020
-425,426,Australia,4,0,2,1/30/2020
-426,427,Australia,2,0,0,1/30/2020
-427,428,Australia,3,0,0,1/30/2020
-428,429,Germany,4,0,0,1/30/2020
-429,430,Finland,1,0,0,1/30/2020
-430,431,United Arab Emirates,4,0,0,1/30/2020
-431,432,Philippines,1,0,0,1/30/2020
-432,433,India,1,0,0,1/30/2020
-433,434,Italy,2,0,0,1/30/2020
-434,435,Mainland China,7153,249,169,1/31/2020
-435,436,Mainland China,537,0,14,1/31/2020
-436,437,Mainland China,436,0,10,1/31/2020
-437,438,Mainland China,352,2,3,1/31/2020
-438,439,Mainland China,332,0,3,1/31/2020
-439,440,Mainland China,240,0,7,1/31/2020
-440,441,Mainland China,238,1,1,1/31/2020
-441,442,Mainland China,237,0,3,1/31/2020
-442,443,Mainland China,184,0,2,1/31/2020
-443,444,Mainland China,177,1,1,1/31/2020
-444,445,Mainland China,168,0,5,1/31/2020
-445,446,Mainland China,153,1,9,1/31/2020
-446,447,Mainland China,139,1,5,1/31/2020
-447,448,Mainland China,120,0,0,1/31/2020
-448,449,Mainland China,96,1,0,1/31/2020
-449,450,Mainland China,88,0,2,1/31/2020
-450,451,Mainland China,87,0,0,1/31/2020
-451,452,Mainland China,83,0,1,1/31/2020
-452,453,Mainland China,60,0,1,1/31/2020
-453,454,Mainland China,59,2,0,1/31/2020
-454,455,Mainland China,58,1,1,1/31/2020
-455,456,Mainland China,47,0,1,1/31/2020
-456,457,Mainland China,35,0,0,1/31/2020
-457,458,Mainland China,32,0,0,1/31/2020
-458,459,Mainland China,29,0,2,1/31/2020
-459,460,Mainland China,21,0,1,1/31/2020
-460,461,Mainland China,20,0,0,1/31/2020
-461,462,Mainland China,17,0,0,1/31/2020
-462,463,Mainland China,14,0,1,1/31/2020
-463,464,Hong Kong,13,0,0,1/31/2020
-464,465,Taiwan,10,0,0,1/31/2020
-465,466,Mainland China,8,0,0,1/31/2020
-466,467,Macau,7,0,0,1/31/2020
-467,468,Mainland China,1,0,0,1/31/2020
-468,469,US,1,0,0,1/31/2020
-469,470,US,2,0,0,1/31/2020
-470,471,US,3,0,0,1/31/2020
-471,472,US,1,0,0,1/31/2020
-472,473,Japan,17,0,1,1/31/2020
-473,474,Thailand,19,0,7,1/31/2020
-474,475,South Korea,11,0,0,1/31/2020
-475,476,Singapore,16,0,0,1/31/2020
-476,477,Vietnam,2,0,0,1/31/2020
-477,478,France,6,0,0,1/31/2020
-478,479,Nepal,1,0,0,1/31/2020
-479,480,Malaysia,8,0,0,1/31/2020
-480,481,Canada,2,0,0,1/31/2020
-481,482,Canada,1,0,0,1/31/2020
-482,483,Cambodia,1,0,0,1/31/2020
-483,484,Sri Lanka,1,0,0,1/31/2020
-484,485,Australia,4,0,2,1/31/2020
-485,486,Australia,2,0,0,1/31/2020
-486,487,Australia,3,0,0,1/31/2020
-487,488,Germany,7,0,0,1/31/2020
-488,489,Finland,1,0,0,1/31/2020
-489,490,United Arab Emirates,4,0,0,1/31/2020
-490,491,Philippines,1,0,0,1/31/2020
-491,492,India,1,0,0,1/31/2020
-492,493,Italy,2,0,0,1/31/2020
-493,494,Sweden,1,0,0,1/31/2020
-494,495,Russia,2,0,0,1/31/2020
-495,496,Spain,1,0,0,1/31/2020
-496,497,UK,2,0,0,1/31/2020
+Country,Confirmed,Deaths,Recovered,Date
+China,1,0,0,1/22/2020
+China,14,0,0,1/22/2020
+China,6,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,26,0,0,1/22/2020
+China,2,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,4,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,5,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,444,0,0,1/22/2020
+China,4,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,2,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,2,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,2,0,0,1/22/2020
+China,9,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,5,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,4,0,0,1/22/2020
+China,0,0,0,1/22/2020
+US,1,0,0,1/22/2020
+China,0,0,0,1/22/2020
+China,1,0,0,1/22/2020
+China,10,0,0,1/22/2020
+Japan,2,0,0,1/22/2020
+Thailand,2,0,0,1/22/2020
+South Korea,1,0,0,1/22/2020
+Mainland China,9,0,0,1/23/2020
+Mainland China,22,0,0,1/23/2020
+Mainland China,9,0,0,1/23/2020
+Mainland China,5,0,0,1/23/2020
+Mainland China,2,0,0,1/23/2020
+Mainland China,32,0,2,1/23/2020
+Mainland China,5,0,0,1/23/2020
+Mainland China,3,0,0,1/23/2020
+Mainland China,5,0,0,1/23/2020
+Mainland China,1,1,0,1/23/2020
+Mainland China,2,0,0,1/23/2020
+Mainland China,5,0,0,1/23/2020
+Hong Kong,2,0,0,1/23/2020
+Mainland China,444,17,28,1/23/2020
+Mainland China,9,0,0,1/23/2020
+Mainland China,0,0,0,1/23/2020
+Mainland China,5,0,0,1/23/2020
+Mainland China,7,0,0,1/23/2020
+Mainland China,1,0,0,1/23/2020
+Mainland China,3,0,0,1/23/2020
+Macau,2,0,0,1/23/2020
+Mainland China,1,0,0,1/23/2020
+Mainland China,0,0,0,1/23/2020
+Mainland China,3,0,0,1/23/2020
+Mainland China,6,0,0,1/23/2020
+Mainland China,16,0,0,1/23/2020
+Mainland China,1,0,0,1/23/2020
+Mainland China,8,0,0,1/23/2020
+Taiwan,1,0,0,1/23/2020
+Mainland China,4,0,0,1/23/2020
+Mainland China,0,0,0,1/23/2020
+US,1,0,0,1/23/2020
+Mainland China,2,0,0,1/23/2020
+Mainland China,2,0,0,1/23/2020
+Mainland China,27,0,0,1/23/2020
+Japan,1,0,0,1/23/2020
+Thailand,3,0,0,1/23/2020
+South Korea,1,0,0,1/23/2020
+Singapore,1,0,0,1/23/2020
+Philippines,0,0,0,1/23/2020
+Malaysia,0,0,0,1/23/2020
+Vietnam,2,0,0,1/23/2020
+Australia,0,0,0,1/23/2020
+Mexico,0,0,0,1/23/2020
+Brazil,0,0,0,1/23/2020
+Mainland China,549,24,31,1/24/2020
+Mainland China,53,0,2,1/24/2020
+Mainland China,43,0,1,1/24/2020
+Mainland China,36,0,1,1/24/2020
+Mainland China,27,0,0,1/24/2020
+Mainland China,24,0,0,1/24/2020
+Mainland China,23,0,0,1/24/2020
+Mainland China,20,0,1,1/24/2020
+Mainland China,18,0,0,1/24/2020
+Mainland China,15,0,0,1/24/2020
+Mainland China,15,0,0,1/24/2020
+Mainland China,15,0,0,1/24/2020
+Mainland China,10,0,0,1/24/2020
+Mainland China,9,0,0,1/24/2020
+Mainland China,9,0,0,1/24/2020
+Mainland China,8,0,0,1/24/2020
+Mainland China,8,0,0,1/24/2020
+Mainland China,5,0,0,1/24/2020
+Mainland China,5,0,0,1/24/2020
+Mainland China,4,1,0,1/24/2020
+Mainland China,4,0,0,1/24/2020
+Mainland China,3,0,0,1/24/2020
+Mainland China,3,0,0,1/24/2020
+Taiwan,3,0,0,1/24/2020
+Mainland China,2,0,0,1/24/2020
+Hong Kong,2,0,0,1/24/2020
+Macau,2,0,0,1/24/2020
+Mainland China,2,1,0,1/24/2020
+Mainland China,2,0,0,1/24/2020
+Mainland China,2,0,0,1/24/2020
+Mainland China,1,0,0,1/24/2020
+Mainland China,1,0,0,1/24/2020
+Mainland China,0,0,0,1/24/2020
+US,1,0,0,1/24/2020
+US,1,0,0,1/24/2020
+Japan,2,0,0,1/24/2020
+Thailand,5,0,0,1/24/2020
+South Korea,2,0,0,1/24/2020
+Singapore,3,0,0,1/24/2020
+Vietnam,2,0,0,1/24/2020
+France,2,0,0,1/24/2020
+Mainland China,1052,52,42,1/25/2020
+Mainland China,104,0,1,1/25/2020
+Mainland China,98,0,2,1/25/2020
+Mainland China,83,1,0,1/25/2020
+Mainland China,75,0,0,1/25/2020
+Mainland China,69,0,0,1/25/2020
+Mainland China,60,0,0,1/25/2020
+Mainland China,51,0,2,1/25/2020
+Mainland China,44,0,0,1/25/2020
+Mainland China,40,1,1,1/25/2020
+Mainland China,39,0,0,1/25/2020
+Mainland China,36,0,0,1/25/2020
+Mainland China,33,0,0,1/25/2020
+Mainland China,31,0,1,1/25/2020
+Mainland China,19,0,0,1/25/2020
+Mainland China,19,0,0,1/25/2020
+Mainland China,18,1,0,1/25/2020
+Mainland China,15,0,0,1/25/2020
+Mainland China,15,0,0,1/25/2020
+Mainland China,13,0,0,1/25/2020
+Mainland China,13,1,0,1/25/2020
+Mainland China,11,0,0,1/25/2020
+Mainland China,,0,0,1/25/2020
+Mainland China,7,0,0,1/25/2020
+Mainland China,7,0,0,1/25/2020
+Mainland China,5,0,0,1/25/2020
+Hong Kong,5,0,0,1/25/2020
+Mainland China,4,0,0,1/25/2020
+Mainland China,4,0,0,1/25/2020
+Mainland China,4,0,0,1/25/2020
+Taiwan,3,0,0,1/25/2020
+Macau,2,0,0,1/25/2020
+Mainland China,1,0,0,1/25/2020
+US,1,0,0,1/25/2020
+US,1,0,0,1/25/2020
+Japan,2,0,0,1/25/2020
+Thailand,7,0,0,1/25/2020
+South Korea,3,0,0,1/25/2020
+Singapore,3,0,0,1/25/2020
+Vietnam,2,0,0,1/25/2020
+France,3,0,0,1/25/2020
+Australia,4,0,0,1/25/2020
+Nepal,1,0,0,1/25/2020
+Malaysia,3,0,0,1/25/2020
+Mainland China,1423,76,44,1/26/2020
+Mainland China,146,0,2,1/26/2020
+Mainland China,128,0,1,1/26/2020
+Mainland China,128,1,0,1/26/2020
+Mainland China,110,0,0,1/26/2020
+Mainland China,100,0,0,1/26/2020
+Mainland China,70,0,0,1/26/2020
+Mainland China,69,0,0,1/26/2020
+Mainland China,68,0,2,1/26/2020
+Mainland China,63,0,0,1/26/2020
+Mainland China,53,1,1,1/26/2020
+Mainland China,48,0,0,1/26/2020
+Mainland China,47,0,1,1/26/2020
+Mainland China,46,0,0,1/26/2020
+Mainland China,35,0,0,1/26/2020
+Mainland China,23,0,0,1/26/2020
+Mainland China,22,0,0,1/26/2020
+Mainland China,22,0,0,1/26/2020
+Mainland China,21,1,0,1/26/2020
+Mainland China,19,0,0,1/26/2020
+Mainland China,18,1,0,1/26/2020
+Mainland China,14,0,0,1/26/2020
+Mainland China,14,0,0,1/26/2020
+Mainland China,13,0,0,1/26/2020
+Mainland China,11,0,0,1/26/2020
+Hong Kong,8,0,0,1/26/2020
+Mainland China,7,0,0,1/26/2020
+Mainland China,6,0,0,1/26/2020
+Macau,6,0,0,1/26/2020
+Mainland China,5,0,0,1/26/2020
+Mainland China,4,0,0,1/26/2020
+Taiwan,4,0,0,1/26/2020
+Mainland China,4,0,0,1/26/2020
+US,1,0,0,1/26/2020
+US,1,0,0,1/26/2020
+US,2,0,0,1/26/2020
+US,1,0,0,1/26/2020
+Japan,4,0,1,1/26/2020
+Thailand,8,0,2,1/26/2020
+South Korea,3,0,0,1/26/2020
+Singapore,4,0,0,1/26/2020
+Vietnam,2,0,0,1/26/2020
+France,3,0,0,1/26/2020
+Australia,4,0,0,1/26/2020
+Nepal,1,0,0,1/26/2020
+Malaysia,4,0,0,1/26/2020
+Canada,1,0,0,1/26/2020
+Mainland China,2714,100,47,1/27/2020
+Mainland China,173,0,1,1/27/2020
+Mainland China,168,1,0,1/27/2020
+Mainland China,151,0,4,1/27/2020
+Mainland China,132,0,0,1/27/2020
+Mainland China,106,0,0,1/27/2020
+Mainland China,100,0,0,1/27/2020
+Mainland China,90,0,0,1/27/2020
+Mainland China,87,1,0,1/27/2020
+Mainland China,80,1,2,1/27/2020
+Mainland China,72,0,2,1/27/2020
+Mainland China,70,0,1,1/27/2020
+Mainland China,66,1,3,1/27/2020
+Mainland China,59,0,0,1/27/2020
+Mainland China,51,0,0,1/27/2020
+Mainland China,35,0,0,1/27/2020
+Mainland China,33,1,0,1/27/2020
+Mainland China,33,1,0,1/27/2020
+Mainland China,30,1,0,1/27/2020
+Mainland China,27,0,0,1/27/2020
+Mainland China,26,0,0,1/27/2020
+Mainland China,23,0,0,1/27/2020
+Mainland China,20,0,0,1/27/2020
+Mainland China,19,0,0,1/27/2020
+Mainland China,11,0,0,1/27/2020
+Mainland China,9,0,0,1/27/2020
+Hong Kong,8,0,0,1/27/2020
+Mainland China,7,0,0,1/27/2020
+Mainland China,6,0,0,1/27/2020
+Macau,6,0,0,1/27/2020
+Mainland China,6,0,0,1/27/2020
+Taiwan,5,0,0,1/27/2020
+Mainland China,5,0,0,1/27/2020
+US,1,0,0,1/27/2020
+US,1,0,0,1/27/2020
+US,2,0,0,1/27/2020
+US,1,0,0,1/27/2020
+Japan,4,0,1,1/27/2020
+Thailand,8,0,2,1/27/2020
+South Korea,4,0,0,1/27/2020
+Singapore,5,0,0,1/27/2020
+Vietnam,2,0,0,1/27/2020
+France,3,0,0,1/27/2020
+Nepal,1,0,0,1/27/2020
+Malaysia,4,0,0,1/27/2020
+Canada,1,0,0,1/27/2020
+Cambodia,1,0,0,1/27/2020
+Sri Lanka,1,0,0,1/27/2020
+Ivory Coast,0,0,0,1/27/2020
+Australia,4,0,0,1/27/2020
+Australia,1,0,0,1/27/2020
+Germany,1,0,0,1/27/2020
+Mainland China,3554,125,80,1/28/2020
+Mainland China,296,0,3,1/28/2020
+Mainland China,241,0,5,1/28/2020
+Mainland China,221,0,0,1/28/2020
+Mainland China,206,2,1,1/28/2020
+Mainland China,152,0,0,1/28/2020
+Mainland China,147,0,1,1/28/2020
+Mainland China,121,0,0,1/28/2020
+Mainland China,109,0,3,1/28/2020
+Mainland China,108,0,0,1/28/2020
+Mainland China,99,0,1,1/28/2020
+Mainland China,91,1,4,1/28/2020
+Mainland China,82,0,0,1/28/2020
+Mainland China,80,1,4,1/28/2020
+Mainland China,58,0,2,1/28/2020
+Mainland China,56,0,0,1/28/2020
+Mainland China,48,1,0,1/28/2020
+Mainland China,44,0,0,1/28/2020
+Mainland China,43,1,0,1/28/2020
+Mainland China,37,1,0,1/28/2020
+Mainland China,36,0,0,1/28/2020
+Mainland China,27,0,0,1/28/2020
+Mainland China,25,0,0,1/28/2020
+Mainland China,24,0,0,1/28/2020
+Mainland China,16,0,0,1/28/2020
+Mainland China,13,0,0,1/28/2020
+Mainland China,12,0,0,1/28/2020
+Mainland China,9,0,0,1/28/2020
+Mainland China,9,0,0,1/28/2020
+Hong Kong,8,0,0,1/28/2020
+Taiwan,8,0,0,1/28/2020
+Macau,7,0,0,1/28/2020
+Mainland China,6,0,0,1/28/2020
+US,1,0,0,1/28/2020
+US,1,0,0,1/28/2020
+US,2,0,0,1/28/2020
+US,1,0,0,1/28/2020
+Japan,7,0,1,1/28/2020
+Thailand,14,0,5,1/28/2020
+South Korea,4,0,0,1/28/2020
+Singapore,7,0,0,1/28/2020
+Vietnam,2,0,0,1/28/2020
+France,4,0,0,1/28/2020
+Nepal,1,0,0,1/28/2020
+Malaysia,7,0,0,1/28/2020
+Canada,1,0,0,1/28/2020
+Canada,1,0,0,1/28/2020
+Cambodia,1,0,0,1/28/2020
+Sri Lanka,1,0,0,1/28/2020
+Australia,4,0,0,1/28/2020
+Australia,1,0,0,1/28/2020
+Germany,4,0,0,1/28/2020
+Mainland China,4586,162,90,1/29/2020
+Mainland China,428,0,4,1/29/2020
+Mainland China,311,0,6,1/29/2020
+Mainland China,278,2,2,1/29/2020
+Mainland China,277,0,0,1/29/2020
+Mainland China,200,0,2,1/29/2020
+Mainland China,165,0,1,1/29/2020
+Mainland China,162,0,4,1/29/2020
+Mainland China,145,0,1,1/29/2020
+Mainland China,142,1,1,1/29/2020
+Mainland China,129,0,1,1/29/2020
+Mainland China,111,1,4,1/29/2020
+Mainland China,101,1,5,1/29/2020
+Mainland China,101,0,0,1/29/2020
+Mainland China,78,0,2,1/29/2020
+Mainland China,65,1,0,1/29/2020
+Mainland China,56,0,0,1/29/2020
+Mainland China,55,0,0,1/29/2020
+Mainland China,43,1,0,1/29/2020
+Mainland China,43,1,0,1/29/2020
+Mainland China,39,0,1,1/29/2020
+Mainland China,35,0,1,1/29/2020
+Mainland China,27,0,0,1/29/2020
+Mainland China,26,0,0,1/29/2020
+Mainland China,16,0,0,1/29/2020
+Mainland China,14,0,1,1/29/2020
+Mainland China,14,0,0,1/29/2020
+Mainland China,12,0,1,1/29/2020
+Mainland China,12,0,0,1/29/2020
+Hong Kong,10,0,0,1/29/2020
+Taiwan,8,0,0,1/29/2020
+Macau,7,0,0,1/29/2020
+Mainland China,6,0,0,1/29/2020
+Mainland China,1,0,0,1/29/2020
+US,1,0,0,1/29/2020
+US,1,0,0,1/29/2020
+US,2,0,0,1/29/2020
+US,1,0,0,1/29/2020
+Japan,11,0,1,1/29/2020
+Thailand,14,0,5,1/29/2020
+South Korea,4,0,0,1/29/2020
+Singapore,10,0,0,1/29/2020
+Vietnam,2,0,0,1/29/2020
+France,5,0,0,1/29/2020
+Nepal,1,0,0,1/29/2020
+Malaysia,7,0,0,1/29/2020
+Canada,2,0,0,1/29/2020
+Canada,1,0,0,1/29/2020
+Cambodia,1,0,0,1/29/2020
+Sri Lanka,1,0,0,1/29/2020
+Australia,4,0,0,1/29/2020
+Australia,2,0,0,1/29/2020
+Australia,1,0,0,1/29/2020
+Germany,4,0,0,1/29/2020
+Finland,1,0,0,1/29/2020
+United Arab Emirates,4,0,0,1/29/2020
+Mainland China,5806,204,116,1/30/2020
+Mainland China,537,0,9,1/30/2020
+Mainland China,393,0,11,1/30/2020
+Mainland China,352,2,3,1/30/2020
+Mainland China,332,0,2,1/30/2020
+Mainland China,240,0,7,1/30/2020
+Mainland China,237,0,3,1/30/2020
+Mainland China,206,0,1,1/30/2020
+Mainland China,178,0,2,1/30/2020
+Mainland China,177,1,1,1/30/2020
+Mainland China,168,0,2,1/30/2020
+Mainland China,128,1,9,1/30/2020
+Mainland China,121,1,5,1/30/2020
+Mainland China,101,0,0,1/30/2020
+Mainland China,87,0,2,1/30/2020
+Mainland China,82,1,0,1/30/2020
+Mainland China,76,0,0,1/30/2020
+Mainland China,87,0,0,1/30/2020
+Mainland China,59,2,0,1/30/2020
+Mainland China,50,1,1,1/30/2020
+Mainland China,45,0,1,1/30/2020
+Mainland China,39,0,1,1/30/2020
+Mainland China,32,0,0,1/30/2020
+Mainland China,29,0,0,1/30/2020
+Mainland China,21,0,1,1/30/2020
+Mainland China,20,0,0,1/30/2020
+Mainland China,17,0,0,1/30/2020
+Mainland China,15,0,1,1/30/2020
+Mainland China,14,0,1,1/30/2020
+Hong Kong,12,0,0,1/30/2020
+Taiwan,9,0,0,1/30/2020
+Mainland China,8,0,0,1/30/2020
+Macau,7,0,0,1/30/2020
+Mainland China,1,0,0,1/30/2020
+US,1,0,0,1/30/2020
+US,2,0,0,1/30/2020
+US,2,0,0,1/30/2020
+US,1,0,0,1/30/2020
+Japan,11,0,1,1/30/2020
+Thailand,14,0,5,1/30/2020
+South Korea,6,0,0,1/30/2020
+Singapore,10,0,0,1/30/2020
+Vietnam,2,0,0,1/30/2020
+France,5,0,0,1/30/2020
+Nepal,1,0,0,1/30/2020
+Malaysia,8,0,0,1/30/2020
+Canada,2,0,0,1/30/2020
+Canada,1,0,0,1/30/2020
+Cambodia,1,0,0,1/30/2020
+Sri Lanka,1,0,0,1/30/2020
+Australia,4,0,2,1/30/2020
+Australia,2,0,0,1/30/2020
+Australia,3,0,0,1/30/2020
+Germany,4,0,0,1/30/2020
+Finland,1,0,0,1/30/2020
+United Arab Emirates,4,0,0,1/30/2020
+Philippines,1,0,0,1/30/2020
+India,1,0,0,1/30/2020
+Italy,2,0,0,1/30/2020
+Mainland China,7153,249,169,1/31/2020
+Mainland China,537,0,14,1/31/2020
+Mainland China,436,0,10,1/31/2020
+Mainland China,352,2,3,1/31/2020
+Mainland China,332,0,3,1/31/2020
+Mainland China,240,0,7,1/31/2020
+Mainland China,238,1,1,1/31/2020
+Mainland China,237,0,3,1/31/2020
+Mainland China,184,0,2,1/31/2020
+Mainland China,177,1,1,1/31/2020
+Mainland China,168,0,5,1/31/2020
+Mainland China,153,1,9,1/31/2020
+Mainland China,139,1,5,1/31/2020
+Mainland China,120,0,0,1/31/2020
+Mainland China,96,1,0,1/31/2020
+Mainland China,88,0,2,1/31/2020
+Mainland China,87,0,0,1/31/2020
+Mainland China,83,0,1,1/31/2020
+Mainland China,60,0,1,1/31/2020
+Mainland China,59,2,0,1/31/2020
+Mainland China,58,1,1,1/31/2020
+Mainland China,47,0,1,1/31/2020
+Mainland China,35,0,0,1/31/2020
+Mainland China,32,0,0,1/31/2020
+Mainland China,29,0,2,1/31/2020
+Mainland China,21,0,1,1/31/2020
+Mainland China,20,0,0,1/31/2020
+Mainland China,17,0,0,1/31/2020
+Mainland China,14,0,1,1/31/2020
+Hong Kong,13,0,0,1/31/2020
+Taiwan,10,0,0,1/31/2020
+Mainland China,8,0,0,1/31/2020
+Macau,7,0,0,1/31/2020
+Mainland China,1,0,0,1/31/2020
+US,1,0,0,1/31/2020
+US,2,0,0,1/31/2020
+US,3,0,0,1/31/2020
+US,1,0,0,1/31/2020
+Japan,17,0,1,1/31/2020
+Thailand,19,0,7,1/31/2020
+South Korea,11,0,0,1/31/2020
+Singapore,16,0,0,1/31/2020
+Vietnam,2,0,0,1/31/2020
+France,6,0,0,1/31/2020
+Nepal,1,0,0,1/31/2020
+Malaysia,8,0,0,1/31/2020
+Canada,2,0,0,1/31/2020
+Canada,1,0,0,1/31/2020
+Cambodia,1,0,0,1/31/2020
+Sri Lanka,1,0,0,1/31/2020
+Australia,4,0,2,1/31/2020
+Australia,2,0,0,1/31/2020
+Australia,3,0,0,1/31/2020
+Germany,7,0,0,1/31/2020
+Finland,1,0,0,1/31/2020
+United Arab Emirates,4,0,0,1/31/2020
+Philippines,1,0,0,1/31/2020
+India,1,0,0,1/31/2020
+Italy,2,0,0,1/31/2020
+Sweden,1,0,0,1/31/2020
+Russia,2,0,0,1/31/2020
+Spain,1,0,0,1/31/2020
+UK,2,0,0,1/31/2020
