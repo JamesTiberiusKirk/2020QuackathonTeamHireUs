@@ -6,7 +6,7 @@ services:
     volumes:
       - ./docker-volumes/db:/var/lib/mysql
     ports:
-      - 3306
+      - 3306:3306
     environment:
       MYSQL_ALLOW_EMPTY_PASSWORD: "no"
       MYSQL_ROOT_PASSWORD: "rootpwd"
