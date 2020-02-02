@@ -20,8 +20,8 @@ camera.position.z = 10;
 
 var animate = function() {
     requestAnimationFrame(animate);
-    sphere.rotation.x += 0.01;
-    sphere.rotation.y += 0.01;
+    sphere.rotation.x += 0.2;
+    sphere.rotation.y += 0.2;
     renderer.render(scene, camera);
 }
 
