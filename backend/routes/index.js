@@ -55,7 +55,7 @@ router.get('/affected_countreis', (req, res) => {
 });
 
 
-router.get('/countreis', (req, res) => {
+router.get('/rates', (req, res) => {
     let country = req.query.country;
     if (!country) return res.status(400).send('Provide a key');
 
