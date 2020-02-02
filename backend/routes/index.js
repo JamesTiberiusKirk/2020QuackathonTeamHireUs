@@ -45,4 +45,13 @@ router.get('/coords', (req, res) => {
         res.status(200).send(result);
     });
 });
+
+router.get('/affected_countreis', (req, res) => {
+    let sql = `SELECT * FROM Country WHERE Affected="Yes";`;
+    db.conn.query(sql, (error, result) => {
+        if (error) return res.status(500).send(error);
+        res.status(200).send(result);
+    });
+});
+
 module.exports = router;
