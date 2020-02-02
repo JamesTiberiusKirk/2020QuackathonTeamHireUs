@@ -1,5 +1,5 @@
 const db_sectret = {
-  host: 'vv-db',
+  host: 'virusvis.dumitruvulpe.com',
   user: 'api-backend',
   password: 'testpasword',
   database: 'virusvis'
