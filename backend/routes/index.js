@@ -59,7 +59,7 @@ router.get('/rates', (req, res) => {
     let country = req.query.country;
     if (!country) return res.status(400).send('Provide a key');
 
-    let sql = `SELECT * FROM Rates WHERE CountryName="%${country}%";`;
+    let sql = `SELECT * FROM Rates WHERE CountryName LIKE "%${country}%";`;
     db.conn.query(sql, (error, result) => {
         if (error) return res.status(500).send(error);
         res.status(200).send(result);
