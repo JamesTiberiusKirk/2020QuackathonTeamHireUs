@@ -45,6 +45,6 @@ services:
       - 81:80
       - 444:443
     depends_on:
-      - vv-api-backend
+      - vv-api
     volumes: 
       - ./frontend:/usr/local/apache2/htdocs/
