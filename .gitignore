@@ -1,5 +1,5 @@
-backend/node_modules/
-backend/config/db.secret.js
+*node_modules*
+*db.secret.js*
 
 docker-volumes/
 
