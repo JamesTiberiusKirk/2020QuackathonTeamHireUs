@@ -1,6 +1,19 @@
 version: "3.0"
 
 services:
+  rproxy:
+    build: ./rproxy/
+    ports:
+      - 80:80
+      - 443:443
+    restart: always
+    volumes:
+      - ./docker-volumes/cert_bot/certs/:/etc/letsencrypt/
+      - ./docker-volumes/cert_bot/certs_data/:/var/www/certbot/
+    depends_on: 
+      - vv-api
+      - vv-web
+
   vv-db:
     image: mysql
     volumes:
@@ -16,7 +29,7 @@ services:
     security_opt:
       - seccomp:unconfined
 
-  vv-api-backend:
+  vv-api:
     build: ./backend/
     restart: always
     ports:
@@ -32,6 +45,6 @@ services:
       - 81:80
       - 444:443
     depends_on:
-      - vv-api-backend
+      - vv-api
     volumes: 
       - ./frontend:/usr/local/apache2/htdocs/
