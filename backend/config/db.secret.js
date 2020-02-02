@@ -1,7 +1,7 @@
 const db_sectret = {
-  host: 'dumitruvulpe.com',
+  host: 'vv-db',
   user: 'api-backend',
-  password: 'thebois123',
+  password: 'testpasword',
   database: 'virusvis'
 };
 module.exports=db_sectret;

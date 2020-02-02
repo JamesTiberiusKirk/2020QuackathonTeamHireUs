@@ -4,7 +4,7 @@ const creds = require('../config/config').db_creds;
 var conn = mysql.createConnection(creds);
 
 conn.connect((err)=>{
-    if (err) return console.log(err);
+    if (err) throw err;
     console.log('Database connection made...');
 });
 
